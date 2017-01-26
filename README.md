@@ -79,4 +79,4 @@ Observa como en la consola se va trazando log:
 ![Imagen](./images/9-consola.png)
 
 Fin de la primera parte.
-Puedes seguir en [PublicaTuBot](PublicaTuBot.md)
+Puedes seguir en [PublicaTuBot](./PublicaTuBot.md)
