@@ -77,3 +77,6 @@ Ya puedes hablarle a tu bot. De momento la conversación no es demasiado interes
 Observa como en la consola se va trazando log:
 
 ![Imagen](./images/9-consola.png)
+
+Fin de la primera parte.
+Puedes seguir en [PublicaTuBot](<PublicaTuBot class="md"></PublicaTuBot>)
