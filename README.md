@@ -18,6 +18,8 @@ Entonces creo un archivo en mi path (donde ya he descargado [botbuilder](https:/
 
 Haz el bot "Hola mundo" con estas líneas de código dentro del fichero *app.js*:
 
+[También puedes descargarte directamente el fichero...](app.js) 
+
 ```javascript
 var restify = require('restify');
 var builder = require('botbuilder');
