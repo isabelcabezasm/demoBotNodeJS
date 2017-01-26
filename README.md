@@ -14,4 +14,4 @@ Y después:
 
 Entonces creo un archivo en mi path (donde ya he descargado [botbuilder](https://www.npmjs.com/package/botbuilder) y [restify](http://restify.com/)) y lo nombro *app.js*. Será el fichero principal de primer bot.
 
-![Imagen del archivo app.js](/images/yaktocat.png)
+![Imagen del archivo app.js](./images/1-archivoapp.png)
